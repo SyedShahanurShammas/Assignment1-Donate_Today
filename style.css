@@ -42,7 +42,7 @@ h1 {
     margin-top: 2%;
     display: flex;
     gap: 30px;
-    margin-left: 28%;
+    margin-left: 25%;
     padding: 30px;
 
 }
@@ -63,10 +63,6 @@ h1 {
 .div-color {
     border: 3px solid red;
     color: red;
-}
-
-.hr {
-    width: 20%;
 }
 
 .amount {
